@@ -1,0 +1,28 @@
+name: TobManagement
+favicon: null
+layout_spectrum: 0.7879345430992544
+typography_spectrum: 0.046670889714732766
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8630457548424602
+  lightness: 0.2901091545354575
+  saturation: 0.2397206120658666
+  rhythmicContrast: 0.40361481811851263
+purpose: []
