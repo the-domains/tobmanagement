@@ -19,6 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Tobias Kuners of Koenders
+  email: tobias.kunersofkoenders@kpnmail.nl
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbdc3855-9e1f-4857-80f7-7bbd5c4e86ce.jpg
 name: TobManagement
 cta:
   domain: null
