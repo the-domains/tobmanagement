@@ -1,20 +1,4 @@
-name: TobManagement
-favicon: null
-layout_spectrum: 0.13892
 typography_spectrum: 0.57286
-title: Compliance Consultancy in the Pharmaceutical Industry
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -26,4 +10,21 @@ color:
   lightness: 0.1875
   saturation: 0.2397206120658666
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.13892
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: TobManagement
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Compliance Consultancy in the Pharmaceutical Industry
+description: 'Drive to Delight, Discipline to Deliver, With a Smile!'
 purpose: []
