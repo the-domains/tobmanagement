@@ -4,15 +4,22 @@
         <description><![CDATA[Compliance Consultancy in the Pharmaceutical Industry]]></description>
         <link>https://thegrid.ai/tobmanagement/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 19:54:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 19:48:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tobmanagement/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Good distribution Practice]]></title>
-            <description><![CDATA[<article><h1>Good distribution Practice</h1><p>GDP
-Extended – Covering API.</p></article>]]></description>
+            <description><![CDATA[<p>GDP
+Extended – Covering API.</p>]]></description>
             <link>https://thegrid.ai/tobmanagement/good-distribution-practice/index.html</link>
             <guid isPermaLink="false">ad9ab9e2-6f08-4420-9b5c-8f5fcde0b027</guid>
             <pubDate>Wed, 03 Feb 2016 19:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a5511fb-6aa0-4d3c-b60d-c14a362f457f.png" alt="That is why a Robust and Solid Pest Control Program is a pre-requisite!">]]></description>
+            <link>https://thegrid.ai/tobmanagement/5335ca97-ff00-4013-9f5b-960ed010656e/index.html</link>
+            <guid isPermaLink="false">5335ca97-ff00-4013-9f5b-960ed010656e</guid>
+            <pubDate>Fri, 02 Sep 2016 19:48:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -27,13 +34,6 @@ Extended – Covering API.</p></article>]]></description>
             <link>https://thegrid.ai/tobmanagement/c3792dcc-4fbe-411c-a241-89df50b5b769/index.html</link>
             <guid isPermaLink="false">c3792dcc-4fbe-411c-a241-89df50b5b769</guid>
             <pubDate>Wed, 03 Feb 2016 19:42:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We are building a new webpage for Tob Management, providing content and background.</p>]]></description>
-            <link>https://thegrid.ai/tobmanagement/5335ca97-ff00-4013-9f5b-960ed010656e/index.html</link>
-            <guid isPermaLink="false">5335ca97-ff00-4013-9f5b-960ed010656e</guid>
-            <pubDate>Wed, 03 Feb 2016 19:28:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
